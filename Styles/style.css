@@ -149,7 +149,7 @@ a img {
 
 /* carousel -------------------------------- */
 #carouselExampleIndicators {
-  top: 75px;
+  margin-top: 10vh;
 }
 #carouselExampleIndicators .d-block {
   height: 75vh;
